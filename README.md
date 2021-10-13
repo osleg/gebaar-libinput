@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/osleg/gebaar-libinput.svg?branch=master)](https://travis-ci.org/osleg/gebaar-libinput)
+[![Build Status](https://travis-ci.org/osleg/gebaar-libinput.svg?branch=master)](https://travis-ci.com/osleg/gebaar-libinput)
 
 Gebaar
 =========
