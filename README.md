@@ -3,6 +3,8 @@
 Gebaar
 =========
 Forked from Coffee2CodeNL/gebaar-libinput since original repo unmaintained for half a year, yet this is NOT OFFICIAL repo!
+Don't have linux machine for the moment, the project is frozen till I get one. (or maybe forever).
+Pull Requests are still welcome!
 
 WM Independent Touchpad Gesture Daemon for libinput
 
